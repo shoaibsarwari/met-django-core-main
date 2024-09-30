@@ -1,0 +1,52 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+*.env
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.sqlite3
+db.sqlite3
+media/
+
+# Static files
+staticfiles/
+static/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Coverage reports
+.coverage
+coverage.xml
+*.cover
+
+# Testing
+nosetests.xml
+coverage_html_report/
+.tox/
+.nox/
+*.coverage
+*.egg-info/
+dist/
+build/
+
+# Operating system files
+.DS_Store
+Thumbs.db
