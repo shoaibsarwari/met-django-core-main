@@ -6,7 +6,7 @@ __pycache__/
 .env
 *.env
 
-# Django stuff:
+# Django stuff
 *.log
 *.pot
 *.pyc
